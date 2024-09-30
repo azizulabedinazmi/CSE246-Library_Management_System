@@ -5,9 +5,9 @@ CSE246-Algorithms-Project : Library_Management_System
 
 This software, tool, code, and materials are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. You are free to share and adapt the material for any purpose, including commercial use, as long as appropriate credit is provided.
 
-Attribution must include the name "Azizul Abedin Azmi" or the logo found in this repository.
+Attribution must include the name **"Azizul Abedin Azmi"** or the logo found in this repository.
 
-[View License](LICENSE)
+[![View License](https://img.shields.io/badge/View-License-blue?style=for-the-badge)](LICENSE)
 
 
 
